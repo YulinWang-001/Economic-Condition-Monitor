@@ -1,0 +1,677 @@
+{
+  "fetched": "2026-11-17T15:47:00.961836+00:00",
+  "requested_end": "2026-11-17",
+  "backup": "C:\\Users\\gmaia\\Autonomy Capital\\research - Documents\\General\\Archive\\Economics\\AI semis YW\\Macro\\Macro\\backups\\market_regime_refresh_20261117_154700",
+  "series": {
+    "SPY US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "QQQ US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "RSP US Equity | PX_LAST": {
+      "first": "2003-04-30",
+      "last": "2026-11-17",
+      "observations": 5927
+    },
+    "SPHB US Equity | PX_LAST": {
+      "first": "2011-05-05",
+      "last": "2026-11-17",
+      "observations": 3897
+    },
+    "SPLV US Equity | PX_LAST": {
+      "first": "2011-05-05",
+      "last": "2026-11-17",
+      "observations": 3908
+    },
+    "XLY US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLP US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "HYG US Equity | PX_LAST": {
+      "first": "2007-04-11",
+      "last": "2026-11-17",
+      "observations": 4934
+    },
+    "IEF US Equity | PX_LAST": {
+      "first": "2002-07-26",
+      "last": "2026-11-17",
+      "observations": 6118
+    },
+    "SOXX US Equity | PX_LAST": {
+      "first": "2001-07-13",
+      "last": "2026-11-17",
+      "observations": 6375
+    },
+    "TLT US Equity | PX_LAST": {
+      "first": "2002-07-26",
+      "last": "2026-11-17",
+      "observations": 6118
+    },
+    "SPMO US Equity | PX_LAST": {
+      "first": "2015-10-12",
+      "last": "2026-11-17",
+      "observations": 2414
+    },
+    "MTUM US Equity | PX_LAST": {
+      "first": "2013-04-18",
+      "last": "2026-11-17",
+      "observations": 3416
+    },
+    "XLK US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLC US Equity | PX_LAST": {
+      "first": "2018-06-19",
+      "last": "2026-11-17",
+      "observations": 2116
+    },
+    "XLF US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLI US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLB US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLE US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLV US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLU US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLRE US Equity | PX_LAST": {
+      "first": "2015-10-08",
+      "last": "2026-11-17",
+      "observations": 2787
+    },
+    "SMH US Equity | PX_LAST": {
+      "first": "2011-12-21",
+      "last": "2026-11-17",
+      "observations": 3748
+    },
+    "NVDA US Equity | PX_LAST": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "HG1 Comdty | PX_LAST": {
+      "first": "1990-01-02",
+      "last": "2026-11-17",
+      "observations": 9273
+    },
+    "GC1 Comdty | PX_LAST": {
+      "first": "1990-01-02",
+      "last": "2026-11-17",
+      "observations": 9272
+    },
+    "AUDJPY Curncy | PX_LAST": {
+      "first": "1990-01-01",
+      "last": "2026-11-17",
+      "observations": 9620
+    },
+    "VIX Index | PX_LAST": {
+      "first": "1990-01-02",
+      "last": "2026-11-17",
+      "observations": 9318
+    },
+    "VIX3M Index | PX_LAST": {
+      "first": "2002-01-02",
+      "last": "2026-11-17",
+      "observations": 6255
+    },
+    "USGGT10Y Index | PX_LAST": {
+      "first": "1997-01-30",
+      "last": "2026-11-17",
+      "observations": 7762
+    },
+    "USTWBGD Index | PX_LAST": {
+      "first": "1990-01-01",
+      "last": "2026-11-13",
+      "observations": 9407
+    },
+    "LF98OAS Index | PX_LAST": {
+      "first": "1994-01-31",
+      "last": "2026-11-16",
+      "observations": 6673
+    },
+    "FARBAST Index | PX_LAST": {
+      "first": "1994-12-28",
+      "last": "2026-11-11",
+      "observations": 1659
+    },
+    "FARBDTRS Index | PX_LAST": {
+      "first": "1990-01-03",
+      "last": "2026-11-11",
+      "observations": 1921
+    },
+    "RRPQTOON Index | PX_LAST": {
+      "first": "2013-09-23",
+      "last": "2026-11-16",
+      "observations": 3283
+    },
+    "QQQ US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "RSP US Equity | PX_VOLUME": {
+      "first": "2003-04-30",
+      "last": "2026-11-17",
+      "observations": 5927
+    },
+    "SOXX US Equity | PX_VOLUME": {
+      "first": "2001-07-13",
+      "last": "2026-11-17",
+      "observations": 6375
+    },
+    "SPHB US Equity | PX_VOLUME": {
+      "first": "2011-05-05",
+      "last": "2026-11-17",
+      "observations": 3897
+    },
+    "XLY US Equity | TURNOVER": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLI US Equity | TURNOVER": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLB US Equity | TURNOVER": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "HYG US Equity | PX_VOLUME": {
+      "first": "2007-04-11",
+      "last": "2026-11-17",
+      "observations": 4934
+    },
+    "SPY US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLK US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLC US Equity | PX_VOLUME": {
+      "first": "2018-06-19",
+      "last": "2026-11-17",
+      "observations": 2116
+    },
+    "XLY US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLF US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLI US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLB US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLE US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLV US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLP US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLU US Equity | PX_VOLUME": {
+      "first": "1999-03-10",
+      "last": "2026-11-17",
+      "observations": 6967
+    },
+    "XLRE US Equity | PX_VOLUME": {
+      "first": "2015-10-08",
+      "last": "2026-11-17",
+      "observations": 2792
+    },
+    "SPY US Equity | 30DAY_IMPVOL_100.0%MNY_DF": {
+      "first": "2020-01-02",
+      "last": "2026-11-16",
+      "observations": 1728
+    },
+    "SPY US Equity | PUT_CALL_OPEN_INTEREST_RATIO": {
+      "first": "2020-01-02",
+      "last": "2026-11-17",
+      "observations": 1729
+    },
+    "QQQ US Equity | 30DAY_IMPVOL_100.0%MNY_DF": {
+      "first": "2020-01-02",
+      "last": "2026-11-16",
+      "observations": 1728
+    },
+    "QQQ US Equity | PUT_CALL_OPEN_INTEREST_RATIO": {
+      "first": "2020-01-02",
+      "last": "2026-11-17",
+      "observations": 1729
+    },
+    "SMH US Equity | 30DAY_IMPVOL_100.0%MNY_DF": {
+      "first": "2020-01-02",
+      "last": "2026-11-16",
+      "observations": 1728
+    },
+    "SMH US Equity | PUT_CALL_OPEN_INTEREST_RATIO": {
+      "first": "2020-01-02",
+      "last": "2026-11-17",
+      "observations": 1729
+    },
+    "NVDA US Equity | 30DAY_IMPVOL_100.0%MNY_DF": {
+      "first": "2020-01-02",
+      "last": "2026-11-16",
+      "observations": 1728
+    },
+    "NVDA US Equity | PUT_CALL_OPEN_INTEREST_RATIO": {
+      "first": "2020-01-02",
+      "last": "2026-11-17",
+      "observations": 1729
+    },
+    "SKEW Index | PX_LAST": {
+      "first": "1990-01-02",
+      "last": "2026-11-16",
+      "observations": 9273
+    },
+    "SPX Index | BEST_PE_RATIO": {
+      "first": "2005-01-03",
+      "last": "2026-11-17",
+      "observations": 5707
+    },
+    "S5INFT Index | BEST_PE_RATIO": {
+      "first": "2005-01-03",
+      "last": "2026-11-17",
+      "observations": 5707
+    },
+    "S5TELS Index | BEST_PE_RATIO": {
+      "first": "2005-01-03",
+      "last": "2026-11-17",
+      "observations": 5707
+    },
+    "S5COND Index | BEST_PE_RATIO": {
+      "first": "2005-04-12",
+      "last": "2026-11-17",
+      "observations": 5636
+    },
+    "S5FINL Index | BEST_PE_RATIO": {
+      "first": "2005-01-03",
+      "last": "2026-11-17",
+      "observations": 5707
+    },
+    "S5INDU Index | BEST_PE_RATIO": {
+      "first": "2005-01-03",
+      "last": "2026-11-17",
+      "observations": 5707
+    },
+    "S5MATR Index | BEST_PE_RATIO": {
+      "first": "2005-01-03",
+      "last": "2026-11-17",
+      "observations": 5707
+    },
+    "S5ENRS Index | BEST_PE_RATIO": {
+      "first": "2005-01-03",
+      "last": "2026-11-17",
+      "observations": 5698
+    },
+    "S5HLTH Index | BEST_PE_RATIO": {
+      "first": "2005-01-03",
+      "last": "2026-11-17",
+      "observations": 5707
+    },
+    "S5CONS Index | BEST_PE_RATIO": {
+      "first": "2005-01-03",
+      "last": "2026-11-17",
+      "observations": 5707
+    },
+    "S5UTIL Index | BEST_PE_RATIO": {
+      "first": "2005-01-03",
+      "last": "2026-11-17",
+      "observations": 5707
+    },
+    "S5RLST Index | BEST_PE_RATIO": {
+      "first": "2016-09-19",
+      "last": "2026-11-17",
+      "observations": 2652
+    },
+    "SOX Index | BEST_PE_RATIO": {
+      "first": "2005-06-02",
+      "last": "2026-11-17",
+      "observations": 5503
+    }
+  },
+  "warnings": [],
+  "api_exceptions": [],
+  "asof": "2026-11-17",
+  "final": false,
+  "score": -1.043,
+  "pairs": 20,
+  "pe_series": 13,
+  "options_last_dates": {
+    "SPY": {
+      "price": "2026-11-17",
+      "iv": "2026-11-16",
+      "oi": "2026-11-17"
+    },
+    "QQQ": {
+      "price": "2026-11-17",
+      "iv": "2026-11-16",
+      "oi": "2026-11-17"
+    },
+    "SMH": {
+      "price": "2026-11-17",
+      "iv": "2026-11-16",
+      "oi": "2026-11-17"
+    },
+    "NVDA": {
+      "price": "2026-11-17",
+      "iv": "2026-11-16",
+      "oi": "2026-11-17"
+    }
+  },
+  "macro_last_dates": {
+    "REAL_10Y": "2026-11-17",
+    "USD": "2026-11-13",
+    "HY_OAS": "2026-11-16",
+    "FED_BS": "2026-11-11",
+    "TGA": "2026-11-11",
+    "RRP": "2026-11-16"
+  },
+  "source_last_dates": {
+    "SPY US Equity | PX_LAST": "2026-11-17",
+    "QQQ US Equity | PX_LAST": "2026-11-17",
+    "RSP US Equity | PX_LAST": "2026-11-17",
+    "SPHB US Equity | PX_LAST": "2026-11-17",
+    "SPLV US Equity | PX_LAST": "2026-11-17",
+    "XLY US Equity | PX_LAST": "2026-11-17",
+    "XLP US Equity | PX_LAST": "2026-11-17",
+    "HYG US Equity | PX_LAST": "2026-11-17",
+    "IEF US Equity | PX_LAST": "2026-11-17",
+    "SOXX US Equity | PX_LAST": "2026-11-17",
+    "TLT US Equity | PX_LAST": "2026-11-17",
+    "SPMO US Equity | PX_LAST": "2026-11-17",
+    "MTUM US Equity | PX_LAST": "2026-11-17",
+    "XLK US Equity | PX_LAST": "2026-11-17",
+    "XLC US Equity | PX_LAST": "2026-11-17",
+    "XLF US Equity | PX_LAST": "2026-11-17",
+    "XLI US Equity | PX_LAST": "2026-11-17",
+    "XLB US Equity | PX_LAST": "2026-11-17",
+    "XLE US Equity | PX_LAST": "2026-11-17",
+    "XLV US Equity | PX_LAST": "2026-11-17",
+    "XLU US Equity | PX_LAST": "2026-11-17",
+    "XLRE US Equity | PX_LAST": "2026-11-17",
+    "SMH US Equity | PX_LAST": "2026-11-17",
+    "NVDA US Equity | PX_LAST": "2026-11-17",
+    "HG1 Comdty | PX_LAST": "2026-11-17",
+    "GC1 Comdty | PX_LAST": "2026-11-17",
+    "AUDJPY Curncy | PX_LAST": "2026-11-17",
+    "VIX Index | PX_LAST": "2026-11-17",
+    "VIX3M Index | PX_LAST": "2026-11-17",
+    "USGGT10Y Index | PX_LAST": "2026-11-17",
+    "USTWBGD Index | PX_LAST": "2026-11-13",
+    "LF98OAS Index | PX_LAST": "2026-11-16",
+    "FARBAST Index | PX_LAST": "2026-11-11",
+    "FARBDTRS Index | PX_LAST": "2026-11-11",
+    "RRPQTOON Index | PX_LAST": "2026-11-16",
+    "QQQ US Equity | PX_VOLUME": "2026-11-17",
+    "RSP US Equity | PX_VOLUME": "2026-11-17",
+    "SOXX US Equity | PX_VOLUME": "2026-11-17",
+    "SPHB US Equity | PX_VOLUME": "2026-11-17",
+    "XLY US Equity | TURNOVER": "2026-11-17",
+    "XLI US Equity | TURNOVER": "2026-11-17",
+    "XLB US Equity | TURNOVER": "2026-11-17",
+    "HYG US Equity | PX_VOLUME": "2026-11-17",
+    "SPY US Equity | PX_VOLUME": "2026-11-17",
+    "XLK US Equity | PX_VOLUME": "2026-11-17",
+    "XLC US Equity | PX_VOLUME": "2026-11-17",
+    "XLY US Equity | PX_VOLUME": "2026-11-17",
+    "XLF US Equity | PX_VOLUME": "2026-11-17",
+    "XLI US Equity | PX_VOLUME": "2026-11-17",
+    "XLB US Equity | PX_VOLUME": "2026-11-17",
+    "XLE US Equity | PX_VOLUME": "2026-11-17",
+    "XLV US Equity | PX_VOLUME": "2026-11-17",
+    "XLP US Equity | PX_VOLUME": "2026-11-17",
+    "XLU US Equity | PX_VOLUME": "2026-11-17",
+    "XLRE US Equity | PX_VOLUME": "2026-11-17",
+    "SPY US Equity | 30DAY_IMPVOL_100.0%MNY_DF": "2026-11-16",
+    "SPY US Equity | PUT_CALL_OPEN_INTEREST_RATIO": "2026-11-17",
+    "QQQ US Equity | 30DAY_IMPVOL_100.0%MNY_DF": "2026-11-16",
+    "QQQ US Equity | PUT_CALL_OPEN_INTEREST_RATIO": "2026-11-17",
+    "SMH US Equity | 30DAY_IMPVOL_100.0%MNY_DF": "2026-11-16",
+    "SMH US Equity | PUT_CALL_OPEN_INTEREST_RATIO": "2026-11-17",
+    "NVDA US Equity | 30DAY_IMPVOL_100.0%MNY_DF": "2026-11-16",
+    "NVDA US Equity | PUT_CALL_OPEN_INTEREST_RATIO": "2026-11-17",
+    "SKEW Index | PX_LAST": "2026-11-16",
+    "SPX Index | BEST_PE_RATIO": "2026-11-17",
+    "S5INFT Index | BEST_PE_RATIO": "2026-11-17",
+    "S5TELS Index | BEST_PE_RATIO": "2026-11-17",
+    "S5COND Index | BEST_PE_RATIO": "2026-11-17",
+    "S5FINL Index | BEST_PE_RATIO": "2026-11-17",
+    "S5INDU Index | BEST_PE_RATIO": "2026-11-17",
+    "S5MATR Index | BEST_PE_RATIO": "2026-11-17",
+    "S5ENRS Index | BEST_PE_RATIO": "2026-11-17",
+    "S5HLTH Index | BEST_PE_RATIO": "2026-11-17",
+    "S5CONS Index | BEST_PE_RATIO": "2026-11-17",
+    "S5UTIL Index | BEST_PE_RATIO": "2026-11-17",
+    "S5RLST Index | BEST_PE_RATIO": "2026-11-17",
+    "SOX Index | BEST_PE_RATIO": "2026-11-17"
+  },
+  "macro_tab": {
+    "composite": {
+      "first": "1990-01-02",
+      "last": "2026-11-16",
+      "observations": 9270,
+      "nasdaq_source_last": "2026-11-17",
+      "move_source_last": "2026-11-16"
+    },
+    "nasdaq100": {
+      "first": "1990-01-02",
+      "last": "2026-11-16",
+      "observations": 9270,
+      "nasdaq_source_last": "2026-11-17",
+      "move_source_last": "2026-11-16"
+    }
+  },
+  "macro_relationship": {
+    "composite": {
+      "latest": "2026-11-16",
+      "history": {
+        "paired_changes": 9000,
+        "correlation": -0.18854424647316242,
+        "same_direction_share": 0.43802212689094605
+      },
+      "windows": {
+        "20": {
+          "correlation": -0.7216705630996144,
+          "same_direction_share": 0.2,
+          "directional_count": 20.0
+        },
+        "60": {
+          "correlation": -0.43816332281951087,
+          "same_direction_share": 0.36666666666666664,
+          "directional_count": 60.0
+        },
+        "120": {
+          "correlation": -0.3614561351263648,
+          "same_direction_share": 0.4,
+          "directional_count": 120.0
+        }
+      }
+    },
+    "nasdaq100": {
+      "latest": "2026-11-16",
+      "history": {
+        "paired_changes": 9000,
+        "correlation": -0.16217039553815693,
+        "same_direction_share": 0.4406415904213261
+      },
+      "windows": {
+        "20": {
+          "correlation": -0.7114912640705222,
+          "same_direction_share": 0.2,
+          "directional_count": 20.0
+        },
+        "60": {
+          "correlation": -0.4115118141446823,
+          "same_direction_share": 0.35,
+          "directional_count": 60.0
+        },
+        "120": {
+          "correlation": -0.3124392843637031,
+          "same_direction_share": 0.4083333333333333,
+          "directional_count": 120.0
+        }
+      }
+    }
+  },
+  "browser": [
+    {
+      "tabs": [
+        {
+          "key": "regime",
+          "svg": 5
+        },
+        {
+          "key": "macro",
+          "svg": 3
+        },
+        {
+          "key": "vol",
+          "svg": 2
+        },
+        {
+          "key": "ratios",
+          "svg": 8
+        },
+        {
+          "key": "sectorperformance",
+          "svg": 16
+        },
+        {
+          "key": "options",
+          "svg": 3
+        },
+        {
+          "key": "momentum",
+          "svg": 6
+        },
+        {
+          "key": "pe",
+          "svg": 25
+        }
+      ],
+      "ratioViews": 20,
+      "optionsViews": 8,
+      "peControls": 6,
+      "errors": [],
+      "macroControls": 32,
+      "relationshipControls": 6,
+      "status": "pass",
+      "viewport": {
+        "width": 1416,
+        "height": 908
+      },
+      "mode": "desktop"
+    },
+    {
+      "tabs": [
+        {
+          "key": "regime",
+          "svg": 5
+        },
+        {
+          "key": "macro",
+          "svg": 3
+        },
+        {
+          "key": "vol",
+          "svg": 2
+        },
+        {
+          "key": "ratios",
+          "svg": 8
+        },
+        {
+          "key": "sectorperformance",
+          "svg": 16
+        },
+        {
+          "key": "options",
+          "svg": 3
+        },
+        {
+          "key": "momentum",
+          "svg": 6
+        },
+        {
+          "key": "pe",
+          "svg": 25
+        }
+      ],
+      "ratioViews": 20,
+      "optionsViews": 8,
+      "peControls": 6,
+      "errors": [],
+      "macroControls": 32,
+      "relationshipControls": 6,
+      "status": "pass",
+      "viewport": {
+        "width": 492,
+        "height": 752
+      },
+      "mode": "mobile-dark"
+    }
+  ],
+  "sha256": "27783946095e3aa4c39ef86957ea1e0dedab0ededed7dee71a10dd336d74a526",
+  "html_bytes": 13270044,
+  "status": "pass"
+}
